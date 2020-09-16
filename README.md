@@ -1,2 +1,3 @@
 # CSharpAdvancedExercices
-Add Exercise
+Will add all exercises from the course
+
