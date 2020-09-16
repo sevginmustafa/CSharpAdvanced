@@ -1,2 +1,2 @@
-# CSharpAdvanced
+# CSharpAdvancedExercices
 Add Exercise
