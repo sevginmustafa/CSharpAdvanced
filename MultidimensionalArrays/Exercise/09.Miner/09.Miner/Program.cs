@@ -38,6 +38,7 @@ namespace _09.Miner
             }
 
             int coalsCollected = 0;
+
             Stack<int> lastRow = new Stack<int>();
             Stack<int> lastCol = new Stack<int>();
 
@@ -63,7 +64,7 @@ namespace _09.Miner
                     startRow += 1;
                 }
 
-                if (IsValid(matrix, startRow, startCol))
+                if (startRow >= 0 && startRow < matrix.GetLength(0) && startCol >= 0 && startCol < matrix.GetLength(1))
                 {
                     if (matrix[startRow, startCol] == 'c')
                     {
@@ -89,11 +90,6 @@ namespace _09.Miner
             }
 
             Console.WriteLine($"{coalsCount - coalsCollected} coals left. ({startRow}, {startCol})");
-        }
-
-        public static bool IsValid(char[,] matrix, int row, int col)
-        {
-            return row >= 0 && row < matrix.GetLength(0) && col >= 0 && col < matrix.GetLength(1);
         }
     }
 }

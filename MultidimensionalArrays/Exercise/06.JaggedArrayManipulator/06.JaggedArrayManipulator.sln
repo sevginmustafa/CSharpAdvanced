@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1000
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.Miner", "09.Miner\09.Miner.csproj", "{5B700AF3-4E92-493F-9E09-29E1830CE583}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.JaggedArrayManipulator", "06.JaggedArrayManipulator\06.JaggedArrayManipulator.csproj", "{D41DE2D8-88C3-4B98-9159-D113BFFDCE2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5B700AF3-4E92-493F-9E09-29E1830CE583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5B700AF3-4E92-493F-9E09-29E1830CE583}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5B700AF3-4E92-493F-9E09-29E1830CE583}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5B700AF3-4E92-493F-9E09-29E1830CE583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D41DE2D8-88C3-4B98-9159-D113BFFDCE2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D41DE2D8-88C3-4B98-9159-D113BFFDCE2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D41DE2D8-88C3-4B98-9159-D113BFFDCE2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D41DE2D8-88C3-4B98-9159-D113BFFDCE2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2831C5E3-CBEB-4CBA-88BB-003C9CA1EB6A}
+		SolutionGuid = {0F6FC1A1-B5B6-4E2C-A75C-6179793C9360}
 	EndGlobalSection
 EndGlobal
