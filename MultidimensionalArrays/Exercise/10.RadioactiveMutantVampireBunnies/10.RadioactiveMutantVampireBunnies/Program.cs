@@ -13,6 +13,7 @@ namespace _10.RadioactiveMutantVampireBunnies
             char[,] matrix = new char[size[0], size[1]];
 
             List<int> bunniesPositions = new List<int>();
+            
             int playerPositionRow = 0;
             int playerPositionCol = 0;
 
