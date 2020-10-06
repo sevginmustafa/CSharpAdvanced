@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.PredicateForNames", "07.PredicateForNames\07.PredicateForNames.csproj", "{1F5DF6A5-4B89-4FD3-904E-1403CF0E091E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F5DF6A5-4B89-4FD3-904E-1403CF0E091E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5DF6A5-4B89-4FD3-904E-1403CF0E091E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5DF6A5-4B89-4FD3-904E-1403CF0E091E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5DF6A5-4B89-4FD3-904E-1403CF0E091E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D248905-EAEA-44D3-BE3C-849F99431F87}
+	EndGlobalSection
+EndGlobal
