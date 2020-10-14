@@ -88,5 +88,13 @@ namespace CustomStack
 
             return items[count - 1];
         }
+
+        public void ForEach(Action<int>action)
+        {
+            for (int i = 0; i < count; i++)
+            {
+                action(items[i]);
+            }
+        }
     }
 }
