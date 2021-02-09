@@ -1,3 +1,2 @@
 # CSharpAdvanced
-Here I'll add the solutions of all exercises from the course!
-
+C# Advanced Course from September 2020 at SoftUni
