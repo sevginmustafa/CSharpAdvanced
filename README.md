@@ -1,2 +1,2 @@
 # CSharpAdvanced
-C# Advanced Course from Septem
+C# Advanced Course from Sep
