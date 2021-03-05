@@ -1,2 +1,2 @@
 # CSharpAdvanced
-C# Advanced Cour
+C# Advanced C
