@@ -1,2 +1,2 @@
 # CSharpAdvanced
-C# Advanced Course from September 2020 at SoftUni
+C# Advanced Course from September 2020 
